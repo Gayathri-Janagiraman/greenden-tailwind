@@ -25,9 +25,7 @@ Greenden/
 ##  Getting Started
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/greenden.git
-   ```
+   git clone https://github.com/Gayathri-Janagiraman/greenden-tailwind.git
 2. Open `index.html` in your browser to view the homepage.
 3. Navigate to `product.html` and `contact.html` for other sections of the site.
 
